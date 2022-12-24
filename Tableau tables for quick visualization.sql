@@ -1,3 +1,9 @@
+-- If you want to check the tableau visualization you can check this link
+
+https://public.tableau.com/app/profile/richard.rueda/viz/Project_Covid_16719144447180/Dashboard1?publish=yes
+
+Tables 1 and 2 are not linked at the tableau visualization because they were created as a full resume from the total of the database, while tables 3 and 4 are 
+interactive allowing the user to check the info in real time.
 
 --Queries used for Tableau Project
 */
